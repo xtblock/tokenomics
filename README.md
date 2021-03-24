@@ -1,2 +1,2 @@
 # tokenomics
-XTblock Token Economic
+XTblock's Tokenomic - The dBot Economy.
